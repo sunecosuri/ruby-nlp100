@@ -1,4 +1,4 @@
-def putTemperature(time, str, temperature)
+def putTemperature(x, y, z)
   "#{x}時の#{y}は#{z}"
 end
 
